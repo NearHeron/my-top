@@ -57,9 +57,9 @@
 		],
 		"trailing-comma": false,
 		"indent": [
-			true,
+			false,
 			"tabs",
-			4
+			2
 		],
 		"linterOptions": {
 			"exclude": [
